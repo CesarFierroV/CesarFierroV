@@ -1,16 +1,44 @@
-## Hi there 👋
+# Cesar Fierro
 
-<!--
-**CesarFierroV/CesarFierroV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics Engineer with 9+ years of experience in industrial robotics.
 
-Here are some ideas to get you started:
+## Industrial Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tesla
+- Ford
+- GM
+- BMW
+- Audi
+- Volkswagen
+
+Technologies:
+- FANUC
+- ABB
+- KUKA
+- PROFINET
+- EtherNet/IP
+- Vision Systems
+
+Simulation Software:
+- Roboguide
+- RobotStudio
+- RoboDK
+
+## Current Focus
+
+- ROS2
+- Gazebo
+- MoveIt2
+- Robotics Simulation
+- Python
+- AI for Robotics
+
+## Portfolios
+
+<a href="https://github.com/CesarFierroV/PROJECTS_PORTFOLIO/blob/main/Industrial%20Robotics%20Projects%20Portfolio%20-%20Cesar%20Fierro.pdf">Industrial Robotics Portfolio </a>
+
+Robotics Software Portfolio (In progress)
+
+## Contact
+
+<a href="https://www.linkedin.com/in/c%C3%A9sar-alfonso-fierro-vizcarra-1a270711b/"> LinkedIn </a>
