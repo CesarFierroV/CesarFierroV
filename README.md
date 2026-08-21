@@ -17,7 +17,7 @@ Technologies:
 - KUKA
 - PROFINET
 - EtherNet/IP
-- Vision Systems
+- Vision Systems 2D and 3DV
 
 Simulation Software:
 - Roboguide
